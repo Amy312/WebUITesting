@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4b98523-d47d-4aff-b0f6-5ea9db1b64ef" name="Changes" comment="FirstCommit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/basicWeb/TodolyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/basicWeb/TodolyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../unitTestsUPB" beforeDir="false" afterPath="$PROJECT_DIR$/../unitTestsUPB" afterDir="false" />
     </list>
@@ -145,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697144479838</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="FirstCommit">
+      <created>1697146170043</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697146170044</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

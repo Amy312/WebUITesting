@@ -22,7 +22,7 @@ public class TodolyTest {
     @Test
     public void verifyLoginTest() throws InterruptedException {
         // login
-        String project = "pancito de miel";
+        String project = "pancito de 33miel";
         chrome.findElement(By.xpath("//img[@src=\"/Images/design/pagelogin.png\"]")).click();
         chrome.findElement(By.id("ctl00_MainContent_LoginControl1_TextBoxEmail")).sendKeys("ambarrojasm@gmail.com");
         chrome.findElement(By.id("ctl00_MainContent_LoginControl1_TextBoxPassword")).sendKeys("Amys4n23");
@@ -39,7 +39,7 @@ public class TodolyTest {
         Assertions.assertTrue((chrome.findElements(By.xpath("//td[@class='ProjItemContent'][text()='"+project+"']")).size()==1), "Error");
 
         //update the project
-        String updatedProject = "pan234 paw";
+        String updatedProject = "pan234 23paw";
 
         chrome.findElement(By.xpath("//td[@class='ProjItemContent'][text()='"+project+"']")).click();
         Thread.sleep(2000);
@@ -54,6 +54,8 @@ public class TodolyTest {
         chrome.findElement(By.id("ItemEditTextbox")).sendKeys(updatedProject);
         chrome.findElement(By.id("ItemEditSubmit")).click();
 
+        Thread.sleep(2000);
+        Assertions.assertTrue((chrome.findElements(By.xpath("//td[@class='ProjItemContent'][text()='"+updatedProject+"']")).size()==1), "Error");
 
 
         // verificar si existe el control del logout
