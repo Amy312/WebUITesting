@@ -1,4 +1,4 @@
-package basicWeb;
+package clases.basicWeb;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
