@@ -4,56 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4b98523-d47d-4aff-b0f6-5ea9db1b64ef" name="Changes" comment="FirstCommit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clases/controls/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clases/controls/Control.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clases/controls/Option.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clases/controls/TextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clases/factoryBrowser/Chrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clases/factoryBrowser/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clases/factoryBrowser/FactoryBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clases/factoryBrowser/Firefox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clases/factoryBrowser/IBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clases/pages/LoginSection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clases/pages/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clases/pages/MenuSection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clases/session/Session.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clases/testSuite/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/api/config/Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/api/factoryRequest/FactoryRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/api/factoryRequest/IRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/api/factoryRequest/RequestDELETE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/api/factoryRequest/RequestGET.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/api/factoryRequest/RequestInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/api/factoryRequest/RequestPOST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/api/factoryRequest/RequestPUT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/controls/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/controls/Control.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/controls/Option.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/controls/TextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/factoryBrowser/Chrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/factoryBrowser/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/factoryBrowser/FactoryBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/factoryBrowser/Firefox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/factoryBrowser/IBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/pages/todoist/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/pages/todoist/MenuSection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/pages/todoly/DashboardSection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/pages/todoly/LoginSection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/pages/todoly/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/pages/todoly/MenuSection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/pages/todoly/SettingsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/session/Session.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/testSuites/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/testSuites/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/testSuites/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/testSuites/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practica2/testSuites/TestBase.java" afterDir="false" />
+    <list default="true" id="c4b98523-d47d-4aff-b0f6-5ea9db1b64ef" name="Changes" comment="Practica 2 Finished">
+      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/controls/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/controls/Control.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/controls/Option.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/controls/TextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/factoryBrowser/Chrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/factoryBrowser/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/factoryBrowser/FactoryBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/factoryBrowser/Firefox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/factoryBrowser/IBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/pages/todoist/ChangePass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/pages/todoist/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/pages/todoist/MenuSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/pages/todoist/SettingsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/session/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/testSuites/changePasswordTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/basicWeb/SeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clases/basicWeb/SeleniumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/basicWeb/TodolyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clases/basicWeb/TodolyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../unitTestsUPB" beforeDir="false" afterPath="$PROJECT_DIR$/../unitTestsUPB" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +79,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Ambar/Documents/UPB/Verificación y Pruebas de Sistemas Informaticos/WebUITesting/src/test/java/practica2",
+    "last_opened_file_path": "C:/Users/Ambar/Documents/UPB/Verificación y Pruebas de Sistemas Informaticos/WebUITesting/src/test/java/practicaEnClase",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -120,6 +87,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ambar\Documents\UPB\Verificación y Pruebas de Sistemas Informaticos\WebUITesting\src\test\java\practicaEnClase" />
       <recent name="C:\Users\Ambar\Documents\UPB\Verificación y Pruebas de Sistemas Informaticos\WebUITesting\src\test\java\practica2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -127,55 +95,7 @@
       <recent name="C:\Users\Ambar\Documents\UPB\Verificación y Pruebas de Sistemas Informaticos\WebUITesting\src\test\resources\chrome" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Test4">
-    <configuration name="Test1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;practica2.testSuites.Test1&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
-      <method v="2" />
-    </configuration>
-    <configuration name="Test2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;practica2.testSuites.Test2&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Gradle.changePasswordTest.verifyChangePassword">
     <configuration name="Test3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -248,13 +168,61 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
+    <configuration name="changePasswordTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;practicaEnClase.testSuites.changePasswordTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="changePasswordTest.verifyChangePassword" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;practicaEnClase.testSuites.changePasswordTest.verifyChangePassword&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.changePasswordTest.verifyChangePassword" />
+        <item itemvalue="Gradle.changePasswordTest" />
         <item itemvalue="Gradle.Test4" />
         <item itemvalue="Gradle.Test4.createUpdateDeleteProject" />
         <item itemvalue="Gradle.Test3" />
-        <item itemvalue="Gradle.Test2" />
-        <item itemvalue="Gradle.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -288,12 +256,20 @@
       <option name="project" value="LOCAL" />
       <updated>1697146253948</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Practica 2 Finished">
+      <created>1697489988886</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697489988886</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="FirstCommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="FirstCommit" />
+    <MESSAGE value="Practica 2 Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practica 2 Finished" />
   </component>
 </project>
