@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4b98523-d47d-4aff-b0f6-5ea9db1b64ef" name="Changes" comment="Practica 2 Finished">
-      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/controls/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/controls/Control.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/controls/Option.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/controls/TextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/factoryBrowser/Chrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/factoryBrowser/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/factoryBrowser/FactoryBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/factoryBrowser/Firefox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/factoryBrowser/IBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/pages/todoist/ChangePass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/pages/todoist/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/pages/todoist/MenuSection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/pages/todoist/SettingsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/session/Session.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practicaEnClase/testSuites/changePasswordTest.java" afterDir="false" />
+    <list default="true" id="c4b98523-d47d-4aff-b0f6-5ea9db1b64ef" name="Changes" comment="Finished exercise update password Todoist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../unitTestsUPB" beforeDir="false" afterPath="$PROJECT_DIR$/../unitTestsUPB" afterDir="false" />
     </list>
@@ -270,6 +255,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="FirstCommit" />
     <MESSAGE value="Practica 2 Finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practica 2 Finished" />
+    <MESSAGE value="Finished exercise update password Todoist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished exercise update password Todoist" />
   </component>
 </project>
